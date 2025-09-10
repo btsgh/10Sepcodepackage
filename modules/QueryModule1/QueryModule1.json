@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "68c155b59b993d0d93a1bd61_de21b15c-2f5e-4684-80af-0d837e1905c4",
+  "moduleUUID": "00dc2fd3-1c8f-44e3-85a5-7fd4df4091b9",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "ylvnpdsiov",
+        "sectionName": ""
+      }
+    ],
+    "name": "QueryModule1"
+  }
+}
